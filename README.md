@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brunoloopes&show_icons=true&theme=dracula)
 
 <!--
 **brunoloopes/brunoloopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
