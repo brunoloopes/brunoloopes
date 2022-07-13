@@ -1,4 +1,4 @@
-### Hi there 👋
+### BrunoLopesTI
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brunoloopes&show_icons=true&theme=dracula)
 
 <!--
