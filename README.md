@@ -1,5 +1,6 @@
 ### BrunoLopesTI
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brunoloopes&show_icons=true&theme=dracula)
+<br>
 [![wakatime](https://wakatime.com/badge/user/95efc206-09e1-4296-be1e-bab37822c162.svg)](https://wakatime.com/@brunolopesti)
 
 <!--
