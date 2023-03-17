@@ -1,5 +1,6 @@
 ### BrunoLopesTI
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brunoloopes&show_icons=true&theme=dracula)
+[![wakatime](https://wakatime.com/badge/user/brunolopesti.svg)](https://wakatime.com/@brunolopesti)
 
 <!--
 **brunoloopes/brunoloopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
