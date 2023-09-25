@@ -2,7 +2,7 @@
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=brunoloopes&show_icons=true&theme=dracula)
 <br>
 [![wakatime](https://wakatime.com/badge/user/95efc206-09e1-4296-be1e-bab37822c162.svg)](https://wakatime.com/@brunolopesti)
-- 🔭 I’m currently working on FiveM and Firewall Layer 7
+- 🔭 I’m currently working on L2JCENTER
 - - 📫 How to reach me: 🇧🇷 Uberaba-MG 
 
 <!--
