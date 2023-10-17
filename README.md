@@ -3,7 +3,7 @@
 <br>
 [![wakatime](https://wakatime.com/badge/user/95efc206-09e1-4296-be1e-bab37822c162.svg)](https://wakatime.com/@brunolopesti)
 
-![](https://komarev.com/ghpvc/?username=brunoloopes&label=plastic)
+![](https://komarev.com/ghpvc/?username=brunoloopes&label=Views+Profile)
 
 - 🔭 I’m currently working on L2JCENTER
 - - 📫 How to reach me: 🇧🇷 Uberaba-MG e
