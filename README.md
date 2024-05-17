@@ -6,7 +6,13 @@
 ![](https://komarev.com/ghpvc/?username=brunoloopes&label=Views+Profile)
 
 
-- - 📫 How to reach me: 🇧🇷 Uberaba-MG e
+- - 📫 How to reach me: 🇧🇷 Uberaba-MG
+
+#Backend 
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
 
 
 <!--
