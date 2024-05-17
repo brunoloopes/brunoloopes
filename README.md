@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=brunoloopes&label=Views+Profile)
 
-- 🔭 I’m currently working on L2JCENTER
+
 - - 📫 How to reach me: 🇧🇷 Uberaba-MG e
 
 
