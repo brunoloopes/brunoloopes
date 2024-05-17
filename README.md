@@ -8,10 +8,9 @@
 
 - - 📫 How to reach me: 🇧🇷 Uberaba-MG
 
-#Backend 
-  <a href="#">
-    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>  
+### Backend 
+NodeJS
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
